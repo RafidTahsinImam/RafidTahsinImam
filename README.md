@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything lol
 - 📫 How to reach me rafidtahsin6@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: applebottomjeans
+
 
 <!---
 RafidTahsinImam/RafidTahsinImam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
